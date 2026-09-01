@@ -1,3 +1,24 @@
+
+<img width="1465" height="677" alt="Screenshot 2026-09-01 at 4 05 45 PM" src="https://github.com/user-attachments/assets/3d8de1af-fa23-4207-8f6c-6e7be21101d9" />
+
+<img width="1438" height="397" alt="Screenshot 2026-09-01 at 4 05 52 PM" src="https://github.com/user-attachments/assets/f61597d0-7fda-4ab3-980c-ded2882fdd34" />
+
+<img width="1331" height="354" alt="Screenshot 2026-09-01 at 4 05 59 PM" src="https://github.com/user-attachments/assets/defb9185-f442-4b7f-8f54-938452d17bc7" />
+
+<img width="1415" height="299" alt="Screenshot 2026-09-01 at 4 06 04 PM" src="https://github.com/user-attachments/assets/b7c7fe86-3350-42f0-b4d0-e3f062bda3e6" />
+
+<img width="1367" height="623" alt="Screenshot 2026-09-01 at 4 06 11 PM" src="https://github.com/user-attachments/assets/3b24d50e-4151-40ba-a6ae-047ab25a101d" />
+
+<img width="1397" height="728" alt="Screenshot 2026-09-01 at 4 06 17 PM" src="https://github.com/user-attachments/assets/ff406005-e229-45ed-ad4c-f8f5742d07bf" />
+
+<img width="1398" height="636" alt="Screenshot 2026-09-01 at 4 06 25 PM" src="https://github.com/user-attachments/assets/9af2a853-cc6d-43b6-9ed0-6aa372f170d2" />
+
+<img width="1422" height="560" alt="Screenshot 2026-09-01 at 4 06 32 PM" src="https://github.com/user-attachments/assets/57394894-308e-4ed5-8f5f-5a0d388ca3cc" />
+
+<img width="1460" height="676" alt="Screenshot 2026-09-01 at 4 06 45 PM" src="https://github.com/user-attachments/assets/c1f0c05a-dd17-4d98-b404-18f3feed7010" />
+
+
+
 # ⚡ DataForge AI
 
 ### Autonomous Data Investigation & Root Cause Analysis
